@@ -1,0 +1,9 @@
+{
+	"settings":
+	{
+		"xdebug":
+		{
+			"url": "http://localhost:8080/LaravelDemo/public/"
+		}
+	}
+}

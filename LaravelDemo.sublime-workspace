@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"pag",
+				"paginate"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"id",
+				"idTinTuc"
+			],
+			[
+				"po",
+				"Post"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"trangchu"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ba",
+				"base\tTag"
+			],
+			[
+				"s",
+				"slide"
+			],
+			[
+				"tin",
+				"tintuc"
+			],
+			[
+				"Gr",
+				"group"
+			],
+			[
+				"the",
+				"theloai"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"The",
+				"TheLoai"
+			],
+			[
+				"Midd",
+				"middleware"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"rou",
+				"Route"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 340.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/LoaiTinController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/Controller.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/CommentController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/.gitignore",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/PageController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/LaravelDemo.sublime-project",
+		"/E/WORK/ReactNative/LiveCodeReactNative-master/src/api/saveCart.js",
+		"/E/WORK/ReactNative/LiveCodeReactNative-master/src/api/getCart.js",
+		"/E/WORK/ReactNative/LiveCodeReactNative-master/src/api/checkLogin.js",
+		"/E/WORK/ReactNative/LiveCodeReactNative-master/__tests__/index.android.js",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/layout/header.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/timkiem.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/routes/web.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/loaitin.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/user/sua.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/layout/menu.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/dangky.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/nguoidung.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/UserController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/front/register.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/front/account.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/tintuc.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/layout/header.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/loaitin/them.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/dangnhap.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/trangchu.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/front/login.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Comment.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/front/detail.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/layout/index.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/layout/index.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/SlideController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/layout/slide.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/pages/lienhe.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/front/contact.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/layout/footer.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/front/index.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Kernel.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Middleware/AdminLoginMiddleware.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/login.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/slide/sua.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/slide/danhsach.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/tintuc/sua.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/user/them.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/TinTucController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/loaitin/sua.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/theloai/them.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/TheLoaiController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/tintuc/them.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/tintuc/danhsach.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/user/danhsach.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/slide/them.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/database/factories/UserFactory.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/LoaiTin.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/theloai/sua.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/TheLoai.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Http/Controllers/AjaxController.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/loaitin/danhsach.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/theloai/danhsach.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/admin/layout/menu.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/function/function.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/composer.json",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/dangnhap.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/myView.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/nhapdiem.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/postFile.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/postForm.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/thanhcong.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/welcome.blade.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/resources/views/giao dien admin/cate_add.html",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/TinTuc.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/User.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/app/Slide.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/config/app.php",
+		"/E/WORK/PHP/wamp64/www/LaravelDemo/.env",
+		"/E/WORK/PHP/wamp64/www/Laravel_Demo/config/app.php",
+		"/E/WORK/PHP/wamp64/www/Laravel_Demo/.env",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/routes/web.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/config/session.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/Controllers/AuthController.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/Kernel.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/Middleware/MyMiddleware.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/SanPham.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/LoaiSanPham.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/database/seeds/DatabaseSeeder.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/database/migrations/2018_05_23_132832_table__sanpham.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/database/migrations/2018_05_23_134423_loaisanpham.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/database/migrations/2018_05_23_134749_hocsinh.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/.env",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/Controllers/MyController.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/layouts/master.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/pages/php.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/pages/laravel.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/layouts/header.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/public/css/style.css",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/layouts/footer.blade.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/public/css/app.css",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/resources/views/view/saonm.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/public/img/myFile.jpg",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/Controllers/Controller.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Http/routes.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/routes/channels.php",
+		"/E/WORK/PHP/wamp64/www/MyLaravel/app/Providers/AppServiceProvider.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@extends('layout.index')\n\n@section('content')\n<div class=\"container\">\n\t<!-- slider -->\n\t<div class=\"row carousel-holder\">\n\t\t<div class=\"col-md-4\"></div>\n\t\t<div class=\"col-md-4\">\n\t\t\t<div class=\"panel panel-default\">\n\t\t\t\t<div class=\"panel-heading\">Đăng nhập</div>\n\t\t\t\t<div class=\"panel-body\">\n\t\t\t\t\t@if(count($errors) > 0)\n\t\t\t\t\t<div class=\"alert alert-danger\">\n\t\t\t\t\t\t<a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label=\"close\">&times;</a>\n\t\t\t\t\t\t@foreach($errors->all() as $err)\n\t\t\t\t\t\t{{$err}}<br />\n\t\t\t\t\t\t@endforeach\n\t\t\t\t\t</div>\n\t\t\t\t\t@endif\n\n\t\t\t\t\t@if(session('thongbao'))\n\t\t\t\t\t<div class=\"alert alert-success alert-dismissible\">\n\t\t\t\t\t\t<a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label=\"close\">&times;</a>\n\t\t\t\t\t\t<strong>Success!</strong> {{session('thongbao')}}\n\t\t\t\t\t</div>\n\t\t\t\t\t@endif()\n\t\t\t\t\t<form action=\"dangnhap\" method=\"post\">\n\t\t\t\t\t\t{{ csrf_field() }}\n\t\t\t\t\t\t<input type=\"hidden\" name=\"_token\" value=\"{{csrf_token()}}\" />\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<label>Email</label>\n\t\t\t\t\t\t\t<input type=\"email\" class=\"form-control\" placeholder=\"Email\" name=\"email\"\n\t\t\t\t\t\t\t>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<label>Mật khẩu</label>\n\t\t\t\t\t\t\t<input type=\"password\" class=\"form-control\" name=\"password\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t<button type=\"submit\" class=\"btn btn-default\">Đăng nhập\n\t\t\t\t\t\t</button>\n\t\t\t\t\t</form>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"col-md-4\"></div>\n\t</div>\n\t<!-- end slide -->\n</div>\n@endsection",
+			"@extends('layout.index')\n\n@section('content')\n<div class=\"container\">\n\n\t<!-- slider -->\n\t<div class=\"row carousel-holder\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<div id=\"carousel-example-generic\" class=\"carousel slide\" data-ride=\"carousel\">\n\t\t\t\t<ol class=\"carousel-indicators\">\n\t\t\t\t\t<li data-target=\"#carousel-example-generic\" data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t\t<li data-target=\"#carousel-example-generic\" data-slide-to=\"1\"></li>\n\t\t\t\t\t<li data-target=\"#carousel-example-generic\" data-slide-to=\"2\"></li>\n\t\t\t\t</ol>\n\t\t\t\t<div class=\"carousel-inner\">\n\t\t\t\t\t<div class=\"item active\">\n\t\t\t\t\t\t<img class=\"slide-image\" src=\"image/800x300.png\" alt=\"\">\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"item\">\n\t\t\t\t\t\t<img class=\"slide-image\" src=\"image/800x300.png\" alt=\"\">\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"item\">\n\t\t\t\t\t\t<img class=\"slide-image\" src=\"image/800x300.png\" alt=\"\">\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<a class=\"left carousel-control\" href=\"#carousel-example-generic\" data-slide=\"prev\">\n\t\t\t\t\t<span class=\"glyphicon glyphicon-chevron-left\"></span>\n\t\t\t\t</a>\n\t\t\t\t<a class=\"right carousel-control\" href=\"#carousel-example-generic\" data-slide=\"next\">\n\t\t\t\t\t<span class=\"glyphicon glyphicon-chevron-right\"></span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<!-- end slide -->\n\n\t<div class=\"space20\"></div>\n\n\n\t<div class=\"row main-left\">\n\t\t<div class=\"col-md-3 \">\n\t\t\t<ul class=\"list-group\" id=\"menu\">\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1 active\">\n\t\t\t\t\tMenu\n\t\t\t\t</li>\n\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1\">\n\t\t\t\t\tLevel 1\n\t\t\t\t</li>\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1\">\n\t\t\t\t\t<a href=\"#\">Level 1</a>\n\t\t\t\t</li>\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\n\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1\">\n\t\t\t\t\t<a href=\"#\">Level 1</a>\n\t\t\t\t</li>\n\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\n\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1\">\n\t\t\t\t\t<a href=\"#\">Level 1</a>\n\t\t\t\t</li>\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"list-group-item\">\n\t\t\t\t\t\t<a href=\"#\">Level2</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1\">\n\t\t\t\t\t<a href=\"#\">Level 1</a>\n\t\t\t\t</li>\n\t\t\t\t<li href=\"#\" class=\"list-group-item menu1\">\n\t\t\t\t\t<a href=\"#\">Level 1</a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\n\t\t<div class=\"col-md-9\">\n\t\t\t<div class=\"panel panel-default\">            \n\t\t\t\t<div class=\"panel-heading\" style=\"background-color:#337AB7; color:white;\" >\n\t\t\t\t\t<h2 style=\"margin-top:0px; margin-bottom:0px;\">Liên hệ</h2>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"panel-body\">\n\t\t\t\t\t<!-- item -->\n\t\t\t\t\t<h3><span class=\"glyphicon glyphicon-align-left\"></span> Thông tin liên hệ</h3>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"break\"></div>\n\t\t\t\t\t<h4><span class= \"glyphicon glyphicon-home \"></span> Địa chỉ : </h4>\n\t\t\t\t\t<p>90-92 Lê Thị Riêng, Quận 1, Bến Thành, HCM </p>\n\n\t\t\t\t\t<h4><span class=\"glyphicon glyphicon-envelope\"></span> Email : </h4>\n\t\t\t\t\t<p>90-92 Lê Thị Riêng, Quận 1, Bến Thành, HCM </p>\n\n\t\t\t\t\t<h4><span class=\"glyphicon glyphicon-phone-alt\"></span> Điện thoại : </h4>\n\t\t\t\t\t<p>90-92 Lê Thị Riêng, Quận 1, Bến Thành, HCM </p>\n\n\n\n\t\t\t\t\t<br><br>\n\t\t\t\t\t<h3><span class=\"glyphicon glyphicon-globe\"></span> Bản đồ</h3>\n\t\t\t\t\t<div class=\"break\"></div><br>\n\t\t\t\t\t<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.5201952559787!2d106.68891131458902!3d10.771412992324944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f3c586421ef%3A0xb606461dc7627921!2zVHJ1bmcgVMOibSDEkMOgbyBU4bqhbyBUaW4gSOG7jWMgS2hvYSBQaOG6oW0!5e0!3m2!1svi!2s!4v1465285414810\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>\n\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<!-- /.row -->\n</div>\n@endsection",
+			"<footer>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p>Copyright &copy; Your Website 2014</p>\n\t\t</div>\n\t</div>\n</footer>",
+			"user/sua",
+			"@extends('admin.layout.index')\n\n@section('content')\n<div id=\"page-wrapper\">\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h1 class=\"page-header\">Tin tức\n                    <small>Thêm</small>\n                </h1>\n            </div>\n            <!-- /.col-lg-12 -->\n            <div class=\"col-lg-8\" style=\"padding-bottom:120px\">\n                @if(count($errors) > 0)\n                <div class=\"alert alert-danger\">\n                    <a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label=\"close\">&times;</a>\n                    @foreach($errors->all() as $err)\n                    {{$err}}<br />\n                    @endforeach\n                </div>\n                @endif\n\n                @if(session('thongbao'))\n                <div class=\"alert alert-success alert-dismissible\">\n                    <a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label=\"close\">&times;</a>\n                    <strong>Success!</strong> {{session('thongbao')}}\n                </div>\n                @endif()\n                <form action=\"admin/tintuc/them\" method=\"POST\" enctype=\"multipart/form-data\">\n                    {{ csrf_field() }}\n                    <input type=\"hidden\" name=\"_token\" value=\"{{csrf_token()}}\" />\n                    <div class=\"form-group\">\n                        <label>Thể loại</label>\n                        <select class=\"form-control\" name=\"TheLoai\" id=\"theLoai\">\n                            <option value=\"\">-- Chọn--</option>\n                            @foreach($theloai as $tl)\n                            <option value=\"{{$tl->id}}\">{{$tl->Ten}}</option>\n                            @endforeach\n                        </select>\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Loại tin</label>\n                        <select class=\"form-control\" name=\"LoaiTin\" id=\"loaiTin\">\n                            <option value=\"\">-- Chọn--</option>\n                            @foreach($loaitin as $lt)\n                            <option value=\"{{$lt->id}}\">{{$lt->Ten}}</option>\n                            @endforeach\n                        </select>\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Tiêu đề</label>\n                        <input class=\"form-control\" name=\"TieuDe\" placeholder=\"Nhập tiêu đề\" />\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Tóm tắt</label>\n                        <textarea id=\"demo\" class=\"form-control ckeditor\" name=\"TomTat\" rows=\"3\"></textarea>\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Nội dung</label>\n                        <textarea id=\"demo\" class=\"form-control ckeditor\" name=\"NoiDung\" rows=\"3\"></textarea>\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Hình ảnh</label>\n                        <input class=\"form-control\" type=\"file\" name=\"Hinh\" />\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Nổi bật</label>\n                        <label class=\"radio-inline\">\n                            <input name=\"NoiBat\" value=\"0\" checked=\"\" type=\"radio\">Không\n                        </label>\n                        <label class=\"radio-inline\">\n                            <input name=\"NoiBat\" value=\"1\" type=\"radio\">Có\n                        </label>\n                    </div>\n                    <button type=\"submit\" class=\"btn btn-default\">Thêm</button>\n                    <button type=\"reset\" class=\"btn btn-default\">Làm mới</button>\n                    <form>\n                    </div>\n                </div>\n                <!-- /.row -->\n            </div>\n            <!-- /.container-fluid -->\n        </div>\n        @endsection\n\n        @section('script')\n        <script>\n            $(document).ready(function(){\n                $('#theLoai').change(function(){\n                    var idTheLoai = $(this).val();\n                    $.get(\"admin/ajax/loaitin/\" + idTheLoai, function(data){\n                        $(\"#loaiTin\").html(data);\n                    });\n                });\n            });\n        </script>\n        @endsection\n",
+			"<i class=\"fa fa-trash-o  fa-fw\"></i>",
+			"Delete</a></td>",
+			"Delete",
+			";\n",
+			"=>",
+			"postThem",
+			"@extend('admin.layout.index')\n\n@section('content')\n<div id=\"page-wrapper\">\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h1 class=\"page-header\">Category\n                    <small>List</small>\n                </h1>\n            </div>\n            <!-- /.col-lg-12 -->\n            <table class=\"table table-striped table-bordered table-hover\" id=\"dataTables-example\">\n                <thead>\n                    <tr align=\"center\">\n                        <th>ID</th>\n                        <th>Name</th>\n                        <th>Category Parent</th>\n                        <th>Status</th>\n                        <th>Delete</th>\n                        <th>Edit</th>\n                    </tr>\n                </thead>\n                <tbody>\n                    <tr class=\"odd gradeX\" align=\"center\">\n                        <td>1</td>\n                        <td>Tin Tức</td>\n                        <td>None</td>\n                        <td>Hiện</td>\n                        <td class=\"center\"><i class=\"fa fa-trash-o  fa-fw\"></i><a href=\"#\"> Delete</a></td>\n                        <td class=\"center\"><i class=\"fa fa-pencil fa-fw\"></i> <a href=\"#\">Edit</a></td>\n                    </tr>\n                    <tr class=\"even gradeC\" align=\"center\">\n                        <td>2</td>\n                        <td>Bóng Đá</td>\n                        <td>Thể Thao</td>\n                        <td>Ẩn</td>\n                        <td class=\"center\"><i class=\"fa fa-trash-o  fa-fw\"></i><a href=\"#\"> Delete</a></td>\n                        <td class=\"center\"><i class=\"fa fa-pencil fa-fw\"></i> <a href=\"#\">Edit</a></td>\n                    </tr>\n                </tbody>\n            </table>\n        </div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container-fluid -->\n</div>\n@endsection",
+			"<div class=\"navbar-default sidebar\" role=\"navigation\">\n    <div class=\"sidebar-nav navbar-collapse\">\n        <ul class=\"nav\" id=\"side-menu\">\n            <li class=\"sidebar-search\">\n                <div class=\"input-group custom-search-form\">\n                    <input type=\"text\" class=\"form-control\" placeholder=\"Search...\">\n                    <span class=\"input-group-btn\">\n                        <button class=\"btn btn-default\" type=\"button\">\n                            <i class=\"fa fa-search\"></i>\n                        </button>\n                    </span>\n                </div>\n                <!-- /input-group -->\n            </li>\n            <li>\n                <a href=\"#\"><i class=\"fa fa-dashboard fa-fw\"></i> Dashboard</a>\n            </li>\n            <li>\n                <a href=\"#\"><i class=\"fa fa-bar-chart-o fa-fw\"></i> Category<span class=\"fa arrow\"></span></a>\n                <ul class=\"nav nav-second-level\">\n                    <li>\n                        <a href=\"#\">List Category</a>\n                    </li>\n                    <li>\n                        <a href=\"#\">Add Category</a>\n                    </li>\n                </ul>\n                <!-- /.nav-second-level -->\n            </li>\n            <li>\n                <a href=\"#\"><i class=\"fa fa-cube fa-fw\"></i> Product<span class=\"fa arrow\"></span></a>\n                <ul class=\"nav nav-second-level\">\n                    <li>\n                        <a href=\"#\">List Product</a>\n                    </li>\n                    <li>\n                        <a href=\"#\">Add Product</a>\n                    </li>\n                </ul>\n                <!-- /.nav-second-level -->\n            </li>\n            <li>\n                <a href=\"#\"><i class=\"fa fa-users fa-fw\"></i> User<span class=\"fa arrow\"></span></a>\n                <ul class=\"nav nav-second-level\">\n                    <li>\n                        <a href=\"#\">List User</a>\n                    </li>\n                    <li>\n                        <a href=\"#\">Add User</a>\n                    </li>\n                </ul>\n                <!-- /.nav-second-level -->\n            </li>\n        </ul>\n    </div>\n    <!-- /.sidebar-collapse -->\n                </div>",
+			"<nav class=\"navbar navbar-default navbar-static-top\" role=\"navigation\" style=\"margin-bottom: 0\">\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"index.html\">Admin Area - Khoa Phạm</a>\n            </div>\n            <!-- /.navbar-header -->\n\n            <ul class=\"nav navbar-top-links navbar-right\">\n                <!-- /.dropdown -->\n                <li class=\"dropdown\">\n                    <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">\n                        <i class=\"fa fa-user fa-fw\"></i>  <i class=\"fa fa-caret-down\"></i>\n                    </a>\n                    <ul class=\"dropdown-menu dropdown-user\">\n                        <li><a href=\"#\"><i class=\"fa fa-user fa-fw\"></i> User Profile</a>\n                        </li>\n                        <li><a href=\"#\"><i class=\"fa fa-gear fa-fw\"></i> Settings</a>\n                        </li>\n                        <li class=\"divider\"></li>\n                        <li><a href=\"login.html\"><i class=\"fa fa-sign-out fa-fw\"></i> Logout</a>\n                        </li>\n                    </ul>\n                    <!-- /.dropdown-user -->\n                </li>\n                <!-- /.dropdown -->\n            </ul>\n            <!-- /.navbar-top-links -->\n\n            <div class=\"navbar-default sidebar\" role=\"navigation\">\n                <div class=\"sidebar-nav navbar-collapse\">\n                    <ul class=\"nav\" id=\"side-menu\">\n                        <li class=\"sidebar-search\">\n                            <div class=\"input-group custom-search-form\">\n                                <input type=\"text\" class=\"form-control\" placeholder=\"Search...\">\n                                <span class=\"input-group-btn\">\n                                    <button class=\"btn btn-default\" type=\"button\">\n                                        <i class=\"fa fa-search\"></i>\n                                    </button>\n                                </span>\n                            </div>\n                            <!-- /input-group -->\n                        </li>\n                        <li>\n                            <a href=\"#\"><i class=\"fa fa-dashboard fa-fw\"></i> Dashboard</a>\n                        </li>\n                        <li>\n                            <a href=\"#\"><i class=\"fa fa-bar-chart-o fa-fw\"></i> Category<span class=\"fa arrow\"></span></a>\n                            <ul class=\"nav nav-second-level\">\n                                <li>\n                                    <a href=\"#\">List Category</a>\n                                </li>\n                                <li>\n                                    <a href=\"#\">Add Category</a>\n                                </li>\n                            </ul>\n                            <!-- /.nav-second-level -->\n                        </li>\n                        <li>\n                            <a href=\"#\"><i class=\"fa fa-cube fa-fw\"></i> Product<span class=\"fa arrow\"></span></a>\n                            <ul class=\"nav nav-second-level\">\n                                <li>\n                                    <a href=\"#\">List Product</a>\n                                </li>\n                                <li>\n                                    <a href=\"#\">Add Product</a>\n                                </li>\n                            </ul>\n                            <!-- /.nav-second-level -->\n                        </li>\n                        <li>\n                            <a href=\"#\"><i class=\"fa fa-users fa-fw\"></i> User<span class=\"fa arrow\"></span></a>\n                            <ul class=\"nav nav-second-level\">\n                                <li>\n                                    <a href=\"#\">List User</a>\n                                </li>\n                                <li>\n                                    <a href=\"#\">Add User</a>\n                                </li>\n                            </ul>\n                            <!-- /.nav-second-level -->\n                        </li>\n                    </ul>\n                </div>\n                <!-- /.sidebar-collapse -->\n            </div>\n            <!-- /.navbar-static-side -->\n        </nav>",
+			"layout",
+			"string",
+			"<!DOCTYPE html>\n<html>\n<head>\n\t<title>Ngô Minh Sao</title>\n</head>\n<body>\n\t<div> \n\t\t<h1>Ngô Minh Sao</h1>\n\t@yield('NoiDung')\n\t</div>\n\t\n</body>\n</html>",
+			"KhoaHoc",
+			"<?php\n\nnamespace App\\Http\\Controllers;\n\nuse Illuminate\\Http\\Request;\nuse Illuminate\\Http\\Response;\n\nclass MyController extends Controller\n{\n    public function XinChao(){\n    \techo \"Xin chào Tùng Cena\";\n    }\n\n    public function KhoaHoc($name){\n    \techo \"Bạn đang tham gia khóa học $name cùng với SaoNM\";\n    \treturn redirect()->route('MyRoute');\n    }\n\n    public function GetURL(Request $request){\n    \t//return $request->path();\n    \t\n    \t//return $request->URL();\n\n    \t// if($request->isMethod('get')){\n    \t// \techo \"Your method is GET\";\n    \t// }\n    \t// else{\n    \t// \techo \"Your method is not GET\";\n    \t// }\n\n    \tif($request->is('My*')){\n    \t\techo \"Exist\";\n    \t}\n    \telse{\n    \t\techo \"Not exist\";\n    \t}\n\n    }\n\n    public function postForm(Request $request){\n    \t// echo \"Tên của bạn là \" .$request->name;\n\n    \tif($request->has('name')){\n    \t\techo \"Tên của bạn là \" .$request->name . \"<br/>\";\n    \t\techo \"Tên của bạn là \" .$request->input('name');\n    \t}\n    \telse{\n    \t\techo \"Không có tên =))\";\n    \t}\n    }\n\n    public function setCookie(){\n    \t$response = new Response;\n    \t$response->withCookie('KhoaHoc', 'Laravel - SaoNM', 0.1);\n    \techo \"Bạn vừa tạo cookie thành công.\";\n    \treturn $response;\n    }\n\n    public function getCookie(Request $request){\n    \techo \"Cookie của bạn là: \";\n    \treturn $request->cookie('KhoaHoc');\n    }\n\n    public function postFile(Request $request){\n    \tif($request->hasfile('myFile')){\n    \t\t$file = $request->file('myFile');\n\n    \t\tif($file>getClientOriginalExtension('myFile') == 'png'){\n    \t\t\t$filename = $file->getClientOriginalName('myFile');\n    \t\t$file->move('img', $filename);\n    \t\techo \"Bạn đã upload file thành công!\";\n    \t\t}\n    \t\t\n    \t}\n    \telse{\n    \t\techo \"Bạn chưa chọn file.\";\n    \t}\n\n\n\n    }\n\n\n}\n",
+			"postForm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<i class=\"fas fa-trash-alt\"></i>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LaravelDemo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"20":
+				{
+					"group": 2,
+					"index": 1
+				},
+				"21":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"22":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"23":
+				{
+					"group": 1,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.47677224736,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
